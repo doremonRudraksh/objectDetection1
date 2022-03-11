@@ -1,0 +1,59 @@
+.header{
+    color: black;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px black;
+}
+.header:hover{
+    width: 220px;
+    font-size: 20px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    border: 20px solid white;
+}
+
+.product {
+    font-size: 20px;
+    background-color: lightgreen;
+    border-radius: 100px;
+    width: 250px;
+    margin-top: 15px;
+    color: aquamarine;
+    
+}
+
+.product:hover {
+    font-size: 25px;
+    font-variant: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold ;
+    font-style: oblique;
+    color: brown;
+}
+
+li{
+    list-style: none;
+}
+
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.heading:hover{
+    font-size: large;
+}
+.item{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    width: 80px;
+    float: right;
+    border-radius: 0px;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px grey;
+}
+
